@@ -7,9 +7,9 @@
 Склонировать проект:
 
 ```
-git clone https://github.com/butleger23/testwork23765.git
+git clone https://github.com/butleger23/TestWork23765.git
 
-cd testwork23765
+cd TestWork23765
 ```
 
 Cоздать и активировать виртуальное окружение:
